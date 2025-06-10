@@ -7,7 +7,7 @@ from elevenlabs import save
 
 # Load API key from environment variables (or replace with your API key directly)
 load_dotenv()
-# client = ElevenLabs(api_key="Your API KEY")
+client = ElevenLabs(="Your API KEY")
 
 # Paths
 MAIN1_AUDIO_PATH = "main1.mp3"  # First main audio file
