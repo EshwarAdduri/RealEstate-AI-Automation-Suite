@@ -3,7 +3,7 @@ from openai import OpenAI
 import openai
 
 # OpenAI Client Initialization
-client = OpenAI(api_key="Your API KEY")
+# client = OpenAI(api_key="Your API KEY")
 
 
 # Function to extract information from notice text
