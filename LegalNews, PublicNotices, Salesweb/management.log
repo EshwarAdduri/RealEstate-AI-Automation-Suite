@@ -1,0 +1,19 @@
+2025-04-06 18:34:01,513 - INFO - Application started.
+2025-04-06 18:34:01,513 - INFO - Application started.
+2025-04-06 18:34:29,773 - INFO - Application started.
+2025-04-06 18:34:32,814 - INFO - Application started.
+2025-04-06 18:34:34,862 - INFO - Application started.
+2025-04-06 18:34:36,270 - INFO - Application started.
+2025-04-06 18:34:36,907 - INFO - Application started.
+2025-04-06 18:34:36,911 - INFO - Scraping public notices from Washington Public Notices...
+2025-04-06 18:34:36,997 - INFO - ====== WebDriver manager ======
+2025-04-06 18:34:39,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 18:34:39,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 18:34:39,436 - INFO - There is no [win64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-06 18:34:39,436 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 18:34:39,611 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-06 18:34:39,614 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-06 18:34:39,615 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-06 18:34:39,725 - INFO - Driver downloading response is 200
+2025-04-06 18:34:40,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-06 18:34:40,855 - INFO - Driver has been saved in cache [C:\Users\addur\.wdm\drivers\chromedriver\win64\134.0.6998.165]

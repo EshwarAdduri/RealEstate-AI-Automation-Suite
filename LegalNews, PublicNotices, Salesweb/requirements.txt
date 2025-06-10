@@ -1,0 +1,13 @@
+streamlit
+pandas
+openpyxl
+selenium
+webdriver-manager
+requests
+openai-whisper
+git+https://github.com/openai/whisper.git
+openai
+tiktoken
+scrapy
+beautifulsoup4
+python-ffmpeg
